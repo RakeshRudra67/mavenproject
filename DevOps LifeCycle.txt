@@ -1,0 +1,30 @@
+DevOps LifeCycle
+
+ first discuss to need for DevOps. What is DevOps? Why DevOps culture is implemented in companies? 
+
+DevOps Lifecycle. DevOps defines an agile relationship between operations and Development. It is a process that is practiced by the development team and operational engineers together from beginning to the final stage of the product. Learning DevOps is not complete without understanding the DevOps lifecycle phases.
+
+What is DevOps?
+
+Devops is basically a combination of two words, "development" and "operations." Usually, DevOps is a culture that follows the set of practices to combine the DevOps and  IT operation teams. Its major goal is to shorten the system delivery life cycles. This culture increases the organization's speed to deliver the applications and services. 
+
+DevOps is an increasingly common approach to software delivery where development and operations teams collaborate to build, test, deploy and monitor applications with speed, quality and control.
+
+
+Successful DevOps implementations generally rely on an integrated set of solutions or a "toolchain" to remove manual steps, reduce errors and scale beyond small, isolated teams
+
+
+
+
+
+ DevOps Lifecycle Phases
+
+	1. Continuous Development
+	2. Continuous Integration
+	3. Continuous Testing
+	4. Continuous Feedback
+	5. Continuous  Monitoring
+	6. Continuous Deployment
+
+
+
